@@ -1,2 +1,3 @@
 # Online-profile
-Extract public data from online social platforms IE (Facebook, Instagram, Twitter etc)  
+
+<center><h3>Installation</h3></center>
